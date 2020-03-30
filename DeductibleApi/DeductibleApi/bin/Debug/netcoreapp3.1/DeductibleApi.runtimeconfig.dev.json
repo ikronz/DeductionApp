@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ikron\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ikron\\.nuget\\packages"
+    ]
+  }
+}
